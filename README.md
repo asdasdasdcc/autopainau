@@ -13,3 +13,4 @@ facebookPass = "####呢度填你既facebook login password"
 
 Username password 並不會上載到任何地方
 
+未來會加返一次過集合所有派嬲link, 一次過自動派嬲
