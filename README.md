@@ -1,7 +1,11 @@
 # autopainau
+
+開發原意:
 https://lihkg.com/thread/2587308/page/1
 
+
 而家需要自行替換url 做派嬲link
+
 
 Usage:
 
@@ -12,5 +16,9 @@ facebookLogin = "####呢度填你既facebook login username(email/phone)"
 facebookPass = "####呢度填你既facebook login password"
 
 Username password 並不會上載到任何地方
+
+
+
+
 
 未來會加返一次過集合所有派嬲link, 一次過自動派嬲
